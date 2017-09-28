@@ -15,8 +15,11 @@ public class HolaMundo {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        System.out.println("Hello World!"); // Display the string.
-        // TODO code application logic here
+        System.out.println("Hola clase");
+        //Prueba2
+        //Prueba1
+        //Prueba3
     }
+    //Prueba 4
     
 }
